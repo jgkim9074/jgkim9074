@@ -12,7 +12,6 @@ jgkim9074@gmail.com
 
 ## 주요 프로젝트
 
-> 모두 팀 프로젝트이며, **제가 단독으로 맡은 범위**를 함께 적었습니다.
 
 - **[CAN 분산 ECU 기반 가변 실내 PBV 캐빈](https://github.com/kyoung-mo/pbv-cabin)** — *Intel 9기 최종 프로젝트 · 경진대회 대상*  
   **담당: 뒷좌석 존 ECU 펌웨어 단독 개발**  
